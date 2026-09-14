@@ -13,7 +13,7 @@ $$
 \textcolor{white}{(-7-4i)-(2+i)} \\
 =(-7-4i)+(-2-i) \\
 =-9-5i \\
-\end{array}
+\end{array} 
 $$
 
 **26)**
