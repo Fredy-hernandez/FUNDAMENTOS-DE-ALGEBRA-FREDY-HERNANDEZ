@@ -397,10 +397,10 @@ $$
 \begin{array}{l c l}
 5 \sqrt{2}+5 \sqrt{2}i \\
 \\
-r=\sqrt{(5 \sqrt{2})^2+(5 \sqrt{2})^2}=70 \\
+r=\sqrt{(5 \sqrt{2})^2+(5 \sqrt{2})^2}=10 \\
 θ=tan^{-1}(5 \sqrt{2}/5 \sqrt{2})=45° \\
 \\
-70(cos45°+isen45°) \\
+10(cos45°+isen45°) \\
 \end{array}
 $$
 
