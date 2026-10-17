@@ -25,7 +25,7 @@ contenidoEntrada = `
     <h3>Trinomio cuadrado perfecto</h3>
     <p>Es un trinomio cuyos extremos tienen raíz cuadrada exacta y su término central es el doble del producto de dichas raíces.</p>
     <h4>Formula:<h4>
-    <p>a² + 2ab + b² = (a + b)²</p>
+    <p></p>
     <p>a² - 2ab + b² = (a - b)²</p>
     <h4>Ejemplos:<h4>
      <ol>
