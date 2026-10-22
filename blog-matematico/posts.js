@@ -14,17 +14,17 @@ const publicaciones = [
     resumen: "Factorización y sus formulas de resolución"
   },
   {
-    id: "otro-test",
-    titulo: "Futuro tema 1",
-    archivo: "entradas/Futuro-tema-2.js",
+    id: "Factorizacion-II",
+    titulo: "Factorizacion II",
+    archivo: "entradas/Factorizacion-II.js",
     fecha: "2026-10-15",
-    resumen: "Futuro tema 1"
+    resumen: "Más factorizaciones y sus formulas de resolucion"
   },
   {
-  id: "futuro-tema-2",
-  titulo: "Futuro tema 2",
-  archivo: "entradas/Futuro-tema-2.js",
-  fecha: "2026-11-??",
-  resumen: "Futuro tema 2"
+    id: "futuro-tema-2",
+    titulo: "Futuro tema 2",
+    archivo: "entradas/Futuro-tema-2.js",
+    fecha: "2026-11-??",
+    resumen: "Futuro tema 2"
   }
 ];
