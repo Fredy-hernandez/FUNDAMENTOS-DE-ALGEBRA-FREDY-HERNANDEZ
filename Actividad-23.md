@@ -1,3 +1,14 @@
+![](Act23_grafica1.jpg)
+
+![](Act23_grafica2.jpg)
+
+![](Act23_grafica3.jpg)
+
+
+
+
+
+
 89) **$-30 + 6x = -8(-6 - 4x)$**
 
 $$
