@@ -21,10 +21,10 @@ const publicaciones = [
     resumen: "Más factorizaciones y sus formulas de resolucion"
   },
   {
-    id: "futuro-tema-2",
-    titulo: "Futuro tema 2",
-    archivo: "entradas/Futuro-tema-2.js",
-    fecha: "2026-11-??",
-    resumen: "Futuro tema 2"
+    id: "Primer-grado",
+    titulo: "Primer-grado",
+    archivo: "entradas/Primer-grado.js",
+    fecha: "2026-10-27",
+    resumen: "Ecuaciones de primer grado y su modo de resolucion"
   }
 ];
