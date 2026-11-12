@@ -102,7 +102,6 @@ $$
 ### Encuentra la inversa de las siguientes matrices:
 
 **13)**
-
 $$
 \det(A) = 27 \quad \Rightarrow \quad A^{-1} = \frac{1}{\det(A)} \operatorname{adj}(A) =
 \frac{1}{27} \begin{bmatrix} 6 & 9 & -6 \\ -4 & 3 & -5 \\ 7 & 15 & 2 \end{bmatrix} =
@@ -110,7 +109,6 @@ $$
 $$
 
 **14)**
-
 $$
 \det(A) = -92 \quad \Rightarrow \quad A^{-1} = \frac{1}{\det(A)} \operatorname{adj}(A) =
 \frac{1}{-92} \begin{bmatrix} -26 & -6 & -10 \\ 18 & -10 & 14 \\ -7 & 9 & 15 \end{bmatrix} =
@@ -118,13 +116,11 @@ $$
 $$
 
 **15)**
-
 $$
 \det(A) = 0 \quad \Rightarrow \quad \text{no existe } A^{-1} \text{ (matriz singular, tiene una fila de ceros)}
 $$
 
 **16)**
-
 $$
 \det(A) = 70 \quad \Rightarrow \quad A^{-1} = \frac{1}{\det(A)} \operatorname{adj}(A) =
 \frac{1}{70} \begin{bmatrix} 6 & -4 & 9 \\ -14 & -14 & 14 \\ -36 & -46 & 16 \end{bmatrix} =
@@ -132,7 +128,6 @@ $$
 $$
 
 **17)**
-
 $$
 \det(A) = 224 \quad \Rightarrow \quad A^{-1} = \frac{1}{\det(A)} \operatorname{adj}(A) =
 \frac{1}{224} \begin{bmatrix} -6 & 30 & -10 \\ 2 & -10 & -34 \\ -48 & 16 & 32 \end{bmatrix} =
@@ -140,7 +135,6 @@ $$
 $$
 
 **18)**
-
 $$
 \det(A) = -96 \quad \Rightarrow \quad A^{-1} = \frac{1}{\det(A)} \operatorname{adj}(A) =
 \frac{1}{-96} \begin{bmatrix} 20 & 8 & -28 \\ -8 & 16 & -8 \\ -3 & -6 & 33 \end{bmatrix} =
@@ -148,7 +142,6 @@ $$
 $$
 
 **19)**
-
 $$
 \det(A) = 45 \quad \Rightarrow \quad A^{-1} = \frac{1}{\det(A)} \operatorname{adj}(A) =
 \frac{1}{45} \begin{bmatrix} 30 & -20 & -15 \\ -21 & 11 & 15 \\ -18 & 3 & 0 \end{bmatrix} =
@@ -156,7 +149,6 @@ $$
 $$
 
 **20)**
-
 $$
 \det(A) = -56 \quad \Rightarrow \quad A^{-1} = \frac{1}{\det(A)} \operatorname{adj}(A) =
 \frac{1}{-56} \begin{bmatrix} -11 & -16 & -2 \\ -16 & -8 & -8 \\ 23 & 8 & -6 \end{bmatrix} =
